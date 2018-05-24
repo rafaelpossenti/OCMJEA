@@ -10,3 +10,8 @@ Sun Certified Enterprise Architect for Java™ EE Study Guide Second Edition Mar
 
 ## Links
 https://docs.oracle.com/javaee/6/tutorial/doc/bnaaw.html
+
+## Designer Patterns
+### Creational Patterns
+### Structural Patterns
+### Behavioral Patterns
