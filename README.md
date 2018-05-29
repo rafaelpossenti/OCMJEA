@@ -8,6 +8,8 @@ Oracle Certified Master, Java EE Enterprise Architect Practice Guide
 
 Sun Certified Enterprise Architect for Java™ EE Study Guide Second Edition Mark Cade and Humphrey Sheil
 
+Head First EJB™ by Kathy Sierra and Bert Bates
+
 ## Links
 https://docs.oracle.com/javaee/6/tutorial/doc/bnaaw.html
 
