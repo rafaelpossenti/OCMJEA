@@ -10,6 +10,8 @@ Sun Certified Enterprise Architect for Java™ EE Study Guide Second Edition Mar
 
 Head First EJB™ by Kathy Sierra and Bert Bates
 
+UML Distilled A Brief Guide to the Standard Object Modeling Language by Martin Fowler
+
 ## Links
 https://docs.oracle.com/javaee/6/tutorial/doc/bnaaw.html
 
