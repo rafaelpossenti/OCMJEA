@@ -15,6 +15,8 @@ UML Distilled A Brief Guide to the Standard Object Modeling Language by Martin F
 ## Links
 https://docs.oracle.com/javaee/6/tutorial/doc/bnaaw.html
 
+https://coderanch.com/t/694944/certification/OCPJP-Passed
+
 ## Designer Patterns
 ### Creational Patterns
 ### Structural Patterns
