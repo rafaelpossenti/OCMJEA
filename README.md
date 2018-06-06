@@ -17,6 +17,8 @@ https://docs.oracle.com/javaee/6/tutorial/doc/bnaaw.html
 
 https://coderanch.com/t/694944/certification/OCPJP-Passed
 
+https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-807
+
 ## Designer Patterns
 ### Creational Patterns
 ### Structural Patterns
